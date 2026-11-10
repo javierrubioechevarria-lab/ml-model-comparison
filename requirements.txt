@@ -1,0 +1,9 @@
+polars
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+pyBlindOpt
+ipykernel
+nbformat
